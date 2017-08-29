@@ -1,2 +1,2 @@
 # Torex
-Torrent piping via RAM
+BitTorrent video piping, via RAM
