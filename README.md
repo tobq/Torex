@@ -1,2 +1,2 @@
 # Torex
-BitTorrent video piping, via RAM
+BitTorrent streaming
